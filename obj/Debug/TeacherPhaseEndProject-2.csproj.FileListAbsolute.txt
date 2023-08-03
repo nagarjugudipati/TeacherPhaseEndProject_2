@@ -1,0 +1,8 @@
+D:\Mphasis\Phase-1 End Projects\TeacherPhaseEndProject-2\TeacherPhaseEndProject-2\bin\Debug\TeacherPhaseEndProject-2.exe.config
+D:\Mphasis\Phase-1 End Projects\TeacherPhaseEndProject-2\TeacherPhaseEndProject-2\bin\Debug\TeacherPhaseEndProject-2.exe
+D:\Mphasis\Phase-1 End Projects\TeacherPhaseEndProject-2\TeacherPhaseEndProject-2\bin\Debug\TeacherPhaseEndProject-2.pdb
+D:\Mphasis\Phase-1 End Projects\TeacherPhaseEndProject-2\TeacherPhaseEndProject-2\obj\Debug\TeacherPhaseEndProject-2.csproj.AssemblyReference.cache
+D:\Mphasis\Phase-1 End Projects\TeacherPhaseEndProject-2\TeacherPhaseEndProject-2\obj\Debug\TeacherPhaseEndProject-2.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Phase-1 End Projects\TeacherPhaseEndProject-2\TeacherPhaseEndProject-2\obj\Debug\TeacherPhaseEndProject-2.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-1 End Projects\TeacherPhaseEndProject-2\TeacherPhaseEndProject-2\obj\Debug\TeacherPhaseEndProject-2.exe
+D:\Mphasis\Phase-1 End Projects\TeacherPhaseEndProject-2\TeacherPhaseEndProject-2\obj\Debug\TeacherPhaseEndProject-2.pdb
